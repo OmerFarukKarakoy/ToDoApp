@@ -6,7 +6,6 @@ ToDoApp is a simple application that allows users to create and manage their to-
 With ToDoApp, you can easily keep track of tasks that need to be completed.
 
 Usage
-To use ToDoApp:
 
 Add tasks: Click on the "Add New Task" button to add tasks to your list.
 
