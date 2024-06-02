@@ -1,6 +1,9 @@
-ToDoApp
+TODOAPP
+
 Introduction
-ToDoApp is a simple application that allows users to create and manage their to-do lists. With ToDoApp, you can easily keep track of tasks that need to be completed.
+
+ToDoApp is a simple application that allows users to create and manage their to-do lists. 
+With ToDoApp, you can easily keep track of tasks that need to be completed.
 
 Usage
 To use ToDoApp:
