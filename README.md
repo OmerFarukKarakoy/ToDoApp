@@ -16,6 +16,16 @@
 
 ---
 
+## 🧰 Kullanılan Teknolojiler
+
+- ⚛️ **React Native** – Mobil uygulama geliştirme
+- 🧭 **React Navigation** – Sayfalar arası geçiş için (kullanıldıysa)
+- 🗂️ **AsyncStorage / Local State** – Görev verilerini saklama (duruma göre)
+- 🎨 **StyleSheet / Custom CSS** – Arayüz tasarımı
+- 🚀 (İsteğe bağlı) **Expo** – Proje başlangıcı ve hızlı test
+
+---
+
 ## 📸 Uygulama Görselleri
 
 Aşağıda uygulamaya ait bazı ekran görüntüleri yer almaktadır:
